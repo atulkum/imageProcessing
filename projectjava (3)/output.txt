@@ -1,0 +1,4 @@
+
+C:\uscProjects\576\project\projectjava>java Encoder -i "C:\uscProjects\576\project\video\sample2_352x288.576v" -h 288 -w 352 -n 2 -q 1 -k 20 
+ENCODING STARTS: 2008-05-05 03:08:28
+ENCODING DONE: 2008-05-05 03:08:36

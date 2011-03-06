@@ -1,0 +1,4 @@
+
+C:\uscProjects\576\project\projectjava>java -Xms1024m -Xmx1024m Decoder -i "C:\uscProjects\576\project\video\sample2_352x288.576v"  -b "C:\uscProjects\576\project\video\sample2_352x288.base"  -e "C:\uscProjects\576\project\video\sample2_352x288.enhanced" -r 24 
+DECODING STARTS: 2008-05-05 03:08:39
+DECODING DONE: 2008-05-05 03:08:43
